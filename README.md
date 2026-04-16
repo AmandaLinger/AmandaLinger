@@ -1,6 +1,5 @@
 ## Olá ! Me chamo Amanda 
 
-- 🌱 Estudando Full-Stack com Java e Golang
 - 💬 Contate-me no email : contatoamandataki@gmail.com
 - 😄 Pronomes : Ela/Dela
  <div style="display: inline_block"><br>
