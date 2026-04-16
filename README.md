@@ -2,7 +2,7 @@
 
 - 💬 Contate-me no email : contatoamandataki@gmail.com
 - 😄 Pronomes : Ela/Dela
- <div style="display: inline_block"><br>
+ <div style="display: flex">
   <img align="center" alt="Amanda-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="Amanda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Amanda-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
