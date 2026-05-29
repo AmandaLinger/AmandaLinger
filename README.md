@@ -19,10 +19,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmandaLinger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLinger&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmandaLinger&theme=tokyonight)
 
 ---
 
@@ -39,3 +36,8 @@
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+
+
+###
+![Snake animation](https://raw.githubusercontent.com/AmandaLinger/AmandaLinger/output/github-contribution-grid-snake.svg)
