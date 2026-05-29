@@ -37,7 +37,3 @@
   </a>
 </p>
 
-
-
-###
-![Snake animation](https://raw.githubusercontent.com/AmandaLinger/AmandaLinger/output/github-contribution-grid-snake.svg)
