@@ -18,6 +18,8 @@
   <img alt="image" src="https://github.com/user-attachments/assets/462db13b-39e3-477b-bc6b-7c68ffa76a4f" height="40" />
   <img src="https://cdn.simpleicons.org/n8n" height="40">
   <img  src="https://github.com/user-attachments/assets/fb329429-bb9d-44f2-9b48-e4c97ade1051" height="40" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/97b74ee1-7168-4fc6-9fdf-c34e175c3bc2" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f75d9e56-4eb8-4d32-9b4f-d0fd1684e76d" />
 
 </p>
 
