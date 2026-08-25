@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40">
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b82fd60f-48d0-4a18-8c22-a7797bf5f81d" />
   <img height="40" alt="java" src="https://github.com/user-attachments/assets/61268b63-6ac6-4047-8e52-5df9e99d9854" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40">
   <img alt="image" src="https://github.com/user-attachments/assets/289d38df-b6d5-46c7-9114-e4d867dfb910" height="40" />
